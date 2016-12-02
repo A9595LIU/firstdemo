@@ -1,2 +1,2 @@
 # firstdemo
-first use GitHub
+learngit
